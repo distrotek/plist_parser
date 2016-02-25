@@ -1,0 +1,23 @@
+{
+  "name": "PlistParser",
+  "authors": [
+    "http://github.com/pugetive"
+  ],
+  "description": "JavaScript utility to transform Property List (plist) XML into JSON format - for web browsers and titanium",
+  "main": [
+    "./plist_parser.js"
+  ],
+  "keywords": [
+    "plist_parser"
+  ],
+  "homepage": "https://github.com/pugetive/plist_parser",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
